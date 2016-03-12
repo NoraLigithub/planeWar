@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/5/4 23:47:43。
+     1>项目“C:\Users\mm\Desktop\大二下\高级程序设计\测试作业\mygame\mygame\mygame.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\software\VS2013\setup\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mm\Desktop\大二下\高级程序设计\测试作业\mygame\Release\mygame.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\software\VS2013\setup\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\mm\Desktop\大二下\高级程序设计\测试作业\mygame\Release\mygame.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mm\Desktop\大二下\高级程序设计\测试作业\mygame\Release\mygame.lib" /MACHINE:X86 /SAFESEH Release\display.obj
+         Release\game.obj
+         Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         mygame.vcxproj -> C:\Users\mm\Desktop\大二下\高级程序设计\测试作业\mygame\Release\mygame.exe
+     1>已完成生成项目“C:\Users\mm\Desktop\大二下\高级程序设计\测试作业\mygame\mygame\mygame.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.01
